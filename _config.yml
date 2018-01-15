@@ -18,7 +18,7 @@ feed:
   description: >
     Personal Blog
 lang: en
-baseurl: "" # the subpath of your site, e.g. /blog (must not end with /)
+baseurl: "kristoffernord.github.io" # the subpath of your site, e.g. /blog (must not end with /)
 
 # Build settings
 markdown: kramdown

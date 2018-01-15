@@ -16,9 +16,9 @@
 title: Kristoffer Nord
 feed:
   description: >
-    Personal Blog
+    Personal website
 lang: en
-baseurl: "kristoffernord.github.io" # the subpath of your site, e.g. /blog (must not end with /)
+baseurl: "" # the subpath of your site, e.g. /blog (must not end with /)
 
 # Build settings
 markdown: kramdown
